@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Vedant Korade",
+    "email": "vedantkorade@gmail.com",
+    "phone": "7977647427",
+    "experience": "0",
+    "position": "AI Intern",
+    "location": "Remote",
+    "tech_stack": [
+      "AWS",
+      "Flask",
+      "Git",
+      "Python"
+    ],
+    "technical_responses": {},
+    "timestamp": "2025-08-18T02:39:54.606213",
+    "session_id": "33230734-f9c4-4cd1-9604-c3914c112206"
+  },
+  {
+    "name": "Vedant Korade",
+    "email": "vedantkorade@gmail.com",
+    "phone": "7977647427",
+    "experience": "0",
+    "position": "Ai intern",
+    "location": "Remote",
+    "tech_stack": [
+      "Python"
+    ],
+    "technical_responses": {
+      "question_1": "Use Python's collections.Counter to count and the re module to find IPs.  The core logic is to process the file line-by-line to conserve memory.",
+      "question_2": "To process a large CSV file in Python with minimal memory, use the pandas library with the chunksize option in pd.read_csv().  This creates an iterator that lets you process the file in smaller pieces instead of loading it all at once. You loop through each piece, perform calculations, and aggregate the results.",
+      "question_3": "To process a large CSV file in Python with minimal memory, use the pandas library with the chunksize option in pd.read_csv().  This creates an iterator that lets you process the file in smaller pieces instead of loading it all at once. You loop through each piece, perform calculations, and aggregate the results."
+    },
+    "timestamp": "2025-08-18T02:48:13.868726",
+    "session_id": "fa496f40-5679-4be5-bde8-83b507732c6d"
+  },
+  {
+    "name": "Vedant Korade",
+    "email": "vedantkorade@gmail.com",
+    "phone": "7977647427",
+    "experience": "0",
+    "position": "AI Intern",
+    "location": "Remote",
+    "tech_stack": [
+      "AWS",
+      "Flask",
+      "Git",
+      "Python"
+    ],
+    "technical_responses": {
+      "question_1": "AWS Elastic Beanstalk for application hosting, Amazon Cognito for user Auth, Amazon RDS for storing user data.",
+      "question_2": "python-magic, Pillow,  File Extension Whitelisting, MIME Type Whitelisting. When an upload fails, you should handle each specific case with a clear, actionable error message for the user. The goal is to tell them exactly what's wrong so they can fix it and try again.",
+      "question_3": "The best way to handle this is by using the git cherry-pick command. It's designed for this exact scenario: applying a specific commit from one branch onto another without merging all the changes.  This approach allows you to precisely select the bug fix, apply it to main, and then safely return to your feature branch, leaving it completely untouched."
+    },
+    "timestamp": "2025-08-18T03:05:21.979409",
+    "session_id": "26ebc298-3f53-401c-aa92-7b4c48b753d3"
+  }
+]
